@@ -11,9 +11,9 @@ title                    : "Zhan Shi "
 title_separator          : "-"
 name                     : &name "Zhan Shi"
 description              : &description "PhD student at University of Strathclyde"
-url                      : https://zhanshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhan-shi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhan-shi/zhanshi.github.io"
+repository               : "zhan-shi/zhan-shi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
