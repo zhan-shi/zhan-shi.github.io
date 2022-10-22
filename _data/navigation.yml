@@ -9,8 +9,8 @@ main:
   - title: "Research"
     url: /research/    
     
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
 
   # - title: "Teaching"
   #    url: /teaching/      
