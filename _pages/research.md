@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Work in Progress </center>
 - - -
 
-**Reference Dependence and Long-run Peer Effects** (with Marco Fongoni, Jonathan Norris, and Agnese Romiti), 2022.<br/>
+**Reference Dependence and Long-run Peer Effects** (with [Marco Fongoni](https://sites.google.com/site/marcofongoni/home), [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)), 2022.<br/>
 
 **The effect of Universal Credit on Children’s Educational and Behavioural Outcomes**, 2022.<br/>
 
