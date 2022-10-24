@@ -17,4 +17,4 @@ My research interests lie in applied microeconomics, labour economics, education
 I hold an MSc in Economics from the University of Edinburgh and a Bachelor of Economics in International Economics and Trade from Shanghai International Studies University.
 
 
-<a href="https://sites.google.com/view/agneseromiti/home" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+<a href="https://sites.google.com/view/agneseromiti/home" style="color: black; text-decoration: underline;text-decoration-style: dash;">Dr Agnese Romiti</a>
