@@ -10,7 +10,7 @@ redirect_from:
 
 Hi and Welcome. 
 
-I am a fully-funded PhD student in Economics at the University of Strathclyde starting from Oct, 2021. I am under the supervision of <a href="https://jonathan-norris.github.io/" style="color: #202A44; text-decoration: underline;text-decoration-style: solid;">Dr Jonathan Norris</a> and <a href="https://sites.google.com/view/agneseromiti/home" style="color: #202A44; text-decoration: underline;text-decoration-style: solid;">Dr Agnese Romiti</a>.
+I am a fully-funded PhD student in Economics at the University of Strathclyde starting from Oct, 2021. I am under the supervision of <a href="https://jonathan-norris.github.io/" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Jonathan Norris</a> and <a href="https://sites.google.com/view/agneseromiti/home" style="color: #202A44; text-decoration: underline;text-decoration-style: solid;">Dr Agnese Romiti</a>.
 
 My research interests lie in applied microeconomics, labour economics, education, and inequality. 
 
