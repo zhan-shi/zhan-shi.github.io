@@ -11,9 +11,8 @@ permalink: /research/
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-# <center> Work in Progress </center>
+# <center> Working Papers </center>
 - - -
-
 
 **Reference Dependent Aspirations and Peer Effects in Education** (with [Marco Fongoni](https://sites.google.com/site/marcofongoni/home), [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). 2022.<br/>
 <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> | [Draft][peer-inequality-draft] ] </small>
@@ -25,6 +24,8 @@ We study the long-run effects of income inequality within adolescent peer compos
 [peer-inequality-draft]:{{ site.baseurl }}{% link assets/files/peerinequality.pdf %}
 
 
+# <center> Work in Progress </center>
+- - -
 
 **The effect of Universal Credit on Children’s Educational and Behavioural Outcomes**. 2022.<br/>
 
