@@ -7,6 +7,7 @@ permalink: /publicgoods/
 <br/> 
 
 # <center> Coding </center> 
+- - -
 
 - [Coding for Economist](https://aeturrell.github.io/coding-for-economists/intro.html)
 - [R for Beginners from Dr. Emmanuel Paradis](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
