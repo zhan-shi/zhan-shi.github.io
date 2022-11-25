@@ -13,3 +13,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ## <center> Coding </center>
 - - -
+<ul>
+  <li>[R for Beginners from Dr. Emmanuel Paradis](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)</li>
+  <li>[R for Data Science](https://r4ds.had.co.nz/)</li>
+</ul>
