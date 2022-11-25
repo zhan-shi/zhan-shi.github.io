@@ -14,7 +14,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 ## <center> Coding </center> 
 - - -
 
-<ul>
-  <li>R for Beginners from Dr. Emmanuel Paradis</li>
-  <li>R for Data Science</li>
-</ul>
+- R for Beginners from Dr. Emmanuel Paradis
+- R for Data Science
