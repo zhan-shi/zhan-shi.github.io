@@ -6,8 +6,7 @@ permalink: /publicgoods/
 ---
 <br/> 
 
-# <center> Coding </center> 
-- - -
+### <center> Coding </center> 
 
 - [Coding for Economist](https://aeturrell.github.io/coding-for-economists/intro.html)
 - [R for Beginners from Dr. Emmanuel Paradis](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
@@ -15,14 +14,14 @@ permalink: /publicgoods/
 - [QuantEcon](https://quantecon.org/)
 
 
-# <center> Writing </center> 
+### <center> Writing </center> 
 - - -
 
 - [On the Art of Writing Proposals](https://www.ssrc.org/publications/the-art-of-writing-proposals/)
 - Economical Writing by Professor Deirdre McCloskey
 
 
-# <center> PhD and Job Market </center> 
+### <center> PhD and Job Market </center> 
 - - -
 
 - [Resources for PhD Students from Professor Shanjun Li](http://li.dyson.cornell.edu/phdRes.php)
