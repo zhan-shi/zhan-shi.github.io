@@ -15,7 +15,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 **Reference Dependent Aspirations and Peer Effects in Education** (with [Marco Fongoni](https://sites.google.com/site/marcofongoni/home), [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). 2022.<br/>
-<small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> ] </small>
+<!-- <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> ] </small> -->
 <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> | [IZA Working Paper][peer-inequality-wp] ] </small>
 
 <div id="peer-inequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
