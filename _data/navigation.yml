@@ -1,17 +1,17 @@
 # main links 
 main:
 
-  - title: "About Me"
+  - title: ""
     url: /
 
-  - title: "CV"
-    url: /assets/files/Zhan_Shi_CV.pdf
+  # - title: "CV"
+  #   url: /assets/files/Zhan_Shi_CV.pdf
 
-  - title: "Research"
-    url: /research/    
+  # - title: "Research"
+  #   url: /research/    
 
-  - title: "Public Goods"
-    url: /publicgoods/
+  # - title: "Public Goods"
+  #   url: /publicgoods/
     
   # - title: "Contact"
   #   url: /contact/
