@@ -48,8 +48,10 @@ Gender Norms and Working Time: Beliefs on Children’s Human Capital Accumulatio
 
 
 
-&NewLine;
-&NewLine;
+\
+&nbsp;
+\
+&nbsp;
 
 
 [//]: This java script is the button to show abstract
