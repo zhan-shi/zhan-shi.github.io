@@ -25,9 +25,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 ## Working Papers 
-- - -
+<!-- - - - -->
 
-**Reference Dependent Aspirations and Peer Effects in Education** (with [Marco Fongoni](https://sites.google.com/site/marcofongoni/home), [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). 2022.<br/>
+Reference Dependent Aspirations and Peer Effects in Education (with [Marco Fongoni](https://sites.google.com/site/marcofongoni/home), [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). 2022.<br/>
 <!-- <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> ] </small> -->
 <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> | [IZA Working Paper][peer-inequality-wp] ] </small>
 
@@ -39,11 +39,12 @@ We study the long-run effects of income inequality within adolescent peer compos
 
 
 ## Work in-Progress 
-- - -
+<!-- - - - -->
 
 <!-- **The effect of Universal Credit on Children’s Educational and Behavioural Outcomes**. 2022.<br/> -->
 
-**Gender Norms and Working Time: Beliefs on Children’s Human Capital Accumulation and Perceived Compensating Wage Differentials Across Gender** (with Césarine Boinet, [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)).
+<!-- **Gender Norms and Working Time: Beliefs on Children’s Human Capital Accumulation and Perceived Compensating Wage Differentials Across Gender** (with Césarine Boinet, [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). -->
+Gender Norms and Working Time: Beliefs on Children’s Human Capital Accumulation and Perceived Compensating Wage Differentials Across Gender (with Césarine Boinet, [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)).
 
 
 
