@@ -53,6 +53,17 @@ Gender Norms and Working Time: Beliefs on Children’s Human Capital Accumulatio
 \
 &nbsp;
 
+<script>
+  body{
+  font-family: Helvetica;
+  font-size: 16pt;
+  }
+  /* Headers */
+  h1,h2,h3,h4,h5,h6{
+    font-size: 24pt;
+  }
+</script>
+
 
 [//]: This java script is the button to show abstract
 <script>
