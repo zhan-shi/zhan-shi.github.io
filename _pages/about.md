@@ -38,13 +38,13 @@ We study the long-run effects of income inequality within adolescent peer compos
 [peer-inequality-wp]:https://docs.iza.org/dp15785.pdf
 
 
-## Work in-Progress 
+<!-- ## Work in-Progress  -->
 <!-- - - - -->
 
 <!-- **The effect of Universal Credit on Children’s Educational and Behavioural Outcomes**. 2022.<br/> -->
 
 <!-- **Gender Norms and Working Time: Beliefs on Children’s Human Capital Accumulation and Perceived Compensating Wage Differentials Across Gender** (with Césarine Boinet, [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). -->
-Gender Norms and Working Time: Beliefs on Children’s Human Capital Accumulation and Perceived Compensating Wage Differentials Across Gender (with Césarine Boinet, [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)).
+<!-- Gender Norms and Working Time: Beliefs on Children’s Human Capital Accumulation and Perceived Compensating Wage Differentials Across Gender (with Césarine Boinet, [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). -->
 
 
 
