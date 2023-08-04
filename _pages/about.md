@@ -55,7 +55,7 @@ We study the long-run effects of income inequality within adolescent peer compos
 
 <script>
   body{
-  font-family: Helvetica;
+  font-family: "inconsolata",sans-serif;
   font-size: 16pt;
   }
   /* Headers */
