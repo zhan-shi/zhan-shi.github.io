@@ -8,6 +8,16 @@ author_profile: true
 #   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HN291NHBM8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HN291NHBM8');
+</script>
+
 <!-- change link color -->
 <!--  #3776ab # 0072b1-->
 <!-- <a href="https://jonathan-norris.github.io/" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Jonathan Norris</a> and <a href="https://sites.google.com/view/agneseromiti/home" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Agnese Romiti</a>. -->
