@@ -22,11 +22,11 @@ author_profile: true
 <!--  #3776ab # 0072b1-->
 <!-- <a href="https://jonathan-norris.github.io/" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Jonathan Norris</a> and <a href="https://sites.google.com/view/agneseromiti/home" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Agnese Romiti</a>. -->
 
-Hi and Welcome!
+Hi and Welcome to my website!
 
-I am a PhD student in Economics at the University of Strathclyde starting in Oct 2021. I am under the supervision of [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Agnese Romiti](https://sites.google.com/view/agneseromiti/home). I hold an MSc in Economics from the University of Edinburgh and a Bachelor of Economics in International Economics and Trade from Shanghai International Studies University. My research interests lie in applied microeconomics, labour economics, education, and inequality. 
+I am a PhD student in Economics at the University of Strathclyde starting in Oct 2021. I am under the supervision of [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Agnese Romiti](https://sites.google.com/view/agneseromiti/home). I hold an MSc in Economics from the University of Edinburgh and a Bachelor of Economics in International Economics and Trade from Shanghai International Studies University. 
 
-Here you can find my [CV](/assets/files/Zhan_Shi_CV.pdf). 
+My research interests lie in applied microeconomics, labour economics, education, and behavioural economics. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
 
 
 <!-- Google Tag Manager (noscript) -->
@@ -45,8 +45,7 @@ Reference Dependent Aspirations and Peer Effects in Education (with [Marco Fongo
 We study the long-run effects of income inequality within adolescent peer compositions in schools. We propose a theoretical framework based on reference dependence where inequality in peer groups can generate aspiration gaps. Guided by predictions from this framework we find that an increase in the share of low income peers within school-cohorts improves the educational outcomes of low income students and has negative effects on high income students. We further document a range of evidence that corroborates these results, including that they are distinct from peer non-linear ability effects. We then find that social cohesion, through better connections in the school network, has an important role in mitigating the effects of peer inequality. Our results provide evidence on the role of inequality in peer groups for long-run educational outcomes, while also demonstrating that there is potential to avoid these consequences.
 </small><br><br/></div>
 
-[peer-inequality-wp]:https://docs.iza.org/dp15785.pdf
-
+[peer-inequality-wp]:https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
 
 <!-- ## Work in-Progress  -->
 <!-- - - - -->
