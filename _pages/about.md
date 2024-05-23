@@ -26,7 +26,7 @@ Hi and Welcome to my website!
 
 I am a PhD student in Economics at the University of Strathclyde starting in Oct 2021. I am under the supervision of [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Agnese Romiti](https://sites.google.com/view/agneseromiti/home). I hold an MSc in Economics from the University of Edinburgh and a Bachelor of Economics in International Economics and Trade from Shanghai International Studies University. 
 
-My research interests lie in applied microeconomics, labour economics, education, and behavioural economics. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
+My research interests lie in applied microeconomics, labour economics, education, and behavioural economics. Here you can find my [Academic CV](/assets/files/ZhanShi_CV.pdf). 
 
 
 <!-- Google Tag Manager (noscript) -->
@@ -54,7 +54,7 @@ We study the long-run effects of income inequality within adolescent peer compos
 
 Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Césarine Boinet, [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)).
 
-The Intergenerational Effects of Sibling Size on Health (with Thi Tham Ta).
+One-Child Policy in China and the Intergenerational Effects on Health (with Thi Tham Ta).
 
 \
 &nbsp;
