@@ -54,7 +54,7 @@ We study the long-run effects of income inequality within adolescent peer compos
 
 Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Césarine Boinet, [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)).
 
-One-Child Policy in China and the Intergenerational Effects on Health (with Thi Tham Ta).
+The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta).
 
 \
 &nbsp;
