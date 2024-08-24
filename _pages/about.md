@@ -37,12 +37,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 ## Working Papers 
 <!-- - - - -->
 
-Reference Dependent Aspirations and Peer Effects in Education (with [Marco Fongoni](https://sites.google.com/site/marcofongoni/home), [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). 2022.<br/>
+Income Inequality and Peer Effects in Education (with [Marco Fongoni](https://sites.google.com/site/marcofongoni/home), [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). 2022.<br/>
 <!-- <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> ] </small> -->
 <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> | [IZA Working Paper][peer-inequality-wp] ] </small>
 
 <div id="peer-inequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
-We study the long-run effects of income inequality within adolescent peer compositions in schools. We propose a theoretical framework based on reference dependence where inequality in peer groups can generate aspiration gaps. Guided by predictions from this framework we find that an increase in the share of low income peers within school-cohorts improves the educational outcomes of low income students and has negative effects on high income students. We further document a range of evidence that corroborates these results, including that they are distinct from peer non-linear ability effects. We then find that social cohesion, through better connections in the school network, has an important role in mitigating the effects of peer inequality. Our results provide evidence on the role of inequality in peer groups for long-run educational outcomes, while also demonstrating that there is potential to avoid these consequences.
+We study the long-run effects of income inequality within peer compositions. An increase in the share of low-income peers within school-cohorts improves the educational outcomes of low-income students and negatively affects high-income students. We show this pattern is not likely explained by commonly observed mechanisms. We then propose a model based on reference-dependent preferences and social comparison that rationalizes our findings, highlighting the role of frustration or motivation depending on students' relative income. We also provide evidence consistent with this mechanism. Finally, we show that better connections in school can help to avoid such unintended consequences of income inequality.
 </small><br><br/></div>
 
 [peer-inequality-wp]:https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
@@ -52,9 +52,9 @@ We study the long-run effects of income inequality within adolescent peer compos
 
 <!-- **The effect of Universal Credit on Children’s Educational and Behavioural Outcomes**. .<br/> -->
 
-Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Césarine Boinet, [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)).
+Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Césarine Boinet, [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). *Working paper available upon request.*
 
-The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta).
+The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta). *Working paper available upon request.*
 
 \
 &nbsp;
