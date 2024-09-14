@@ -22,11 +22,16 @@ author_profile: true
 <!--  #3776ab # 0072b1-->
 <!-- <a href="https://jonathan-norris.github.io/" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Jonathan Norris</a> and <a href="https://sites.google.com/view/agneseromiti/home" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Agnese Romiti</a>. -->
 
-Hi and Welcome to my website!
+Hello and Welcome to my website!
 
-I am a PhD student in Economics at the University of Strathclyde starting in Oct 2021. I am under the supervision of [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Agnese Romiti](https://sites.google.com/view/agneseromiti/home). I hold an MSc in Economics from the University of Edinburgh and a Bachelor of Economics in International Economics and Trade from Shanghai International Studies University. 
+I am a Postdoctoral Research Associate in the School of Economics at the University of Kent. 
+<!-- I work with Fernanda on the Leverhulme-funded project "". -->
 
-My research interests lie in applied microeconomics, labour economics, education, and behavioural economics. Here you can find my [Academic CV](/assets/files/ZhanShi_CV.pdf). 
+<!-- I am a PhD student in Economics at the University of Strathclyde starting in Oct 2021. I am under the supervision of [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Agnese Romiti](https://sites.google.com/view/agneseromiti/home). -->
+
+I study my PhD in Economics at the University of Strathclyde under the supervision of [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Agnese Romiti](https://sites.google.com/view/agneseromiti/home). I hold an MSc in Economics from the University of Edinburgh and a Bachelor of Economics in International Economics and Trade from Shanghai International Studies University. 
+
+My research interests lie in applied microeconomics, labour economics, education, and behavioural economics. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
 
 
 <!-- Google Tag Manager (noscript) -->
