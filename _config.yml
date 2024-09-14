@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Zhan Shi"
 title_separator          : "-"
 name                     : &name "Zhan Shi"
-description              : &description "PhD student at University of Strathclyde"
+description              : &description "Postdoc at University of Kent"
 url                      : https://zhan-shi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhan-shi/zhan-shi.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Zhan Shi"
   avatar           : "profile.jpeg"
-  bio              : PhD student in Economics
+  bio              : Postdoc in Economics
   location         : 
   employer         :
   pubmed           : 
