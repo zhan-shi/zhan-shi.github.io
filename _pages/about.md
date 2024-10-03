@@ -69,7 +69,7 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
 <style>
 
   .container {
-  max-width: 1200px; /* Adjust this value to make the page wider */
+  max-width: 2000px; /* Adjust this value to make the page wider */
   margin: 0 auto; /* Center the container */
   padding: 0 15px; /* Optional: Add some padding */
   }
@@ -88,6 +88,10 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
   }
   a:hover {
     color: #3776ab; /* Change this to your desired hover color */
+  }
+  p {
+    margin: 0 0 10px; /* Adjust the bottom margin to reduce spacing */
+    padding: 0; /* Remove padding if any */
   }
 </style>
 
