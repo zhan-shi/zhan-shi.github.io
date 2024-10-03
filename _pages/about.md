@@ -19,7 +19,7 @@ author_profile: true
 </script>
 
 <!-- change link color -->
-<!--  #3776ab # 0072b1-->
+ <!-- #3776ab # 0072b1 -->
 <!-- <a href="https://jonathan-norris.github.io/" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Jonathan Norris</a> and <a href="https://sites.google.com/view/agneseromiti/home" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Agnese Romiti</a>. -->
 
 Hello and Welcome to my website!
@@ -29,7 +29,7 @@ I am a Postdoctoral Research Associate in the School of Economics at the Univers
 
 <!-- I am a PhD student in Economics at the University of Strathclyde starting in Oct 2021. I am under the supervision of [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Agnese Romiti](https://sites.google.com/view/agneseromiti/home). -->
 
-I study my PhD in Economics at the University of Strathclyde under the supervision of [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Agnese Romiti](https://sites.google.com/view/agneseromiti/home). I hold an MSc in Economics from the University of Edinburgh and a Bachelor of Economics in International Economics and Trade from Shanghai International Studies University. 
+I received my PhD in Economics from the University of Strathclyde in 2024. I hold an MSc in Economics from the University of Edinburgh and a Bachelor of Economics in International Economics and Trade from Shanghai International Studies University. 
 
 My research interests lie in applied microeconomics, labour economics, education, and behavioural economics. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
 
@@ -68,12 +68,20 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
 
 <script>
   body{
-  font-family: Helvetica;
+  font-family: Arial, sans-serif;
   font-size: 16pt;
   }
   /* Headers */
   h1,h2,h3,h4,h5,h6{
     font-size: 24pt;
+  }
+  /* styles.css */
+  a{
+    color: #3776ab; /* Change this to your desired color */
+  }
+
+  a:hover{
+    color: #0072b1; /* Change this to your desired hover color */
   }
 </script>
 
