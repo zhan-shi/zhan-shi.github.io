@@ -29,7 +29,7 @@ I am a Postdoctoral Research Associate in the School of Economics at the Univers
 
 <!-- I am a PhD student in Economics at the University of Strathclyde starting in Oct 2021. I am under the supervision of [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Agnese Romiti](https://sites.google.com/view/agneseromiti/home). -->
 
-I received my PhD in Economics from the University of Strathclyde in 2024. I hold an MSc in Economics from the University of Edinburgh and a Bachelor of Economics in International Economics and Trade from Shanghai International Studies University. 
+I received my PhD in Economics from the University of Strathclyde, Glasgow in 2024. I hold an MSc in Economics from the University of Edinburgh and a Bachelor of Economics in International Economics and Trade from Shanghai International Studies University, China. 
 
 My research interests lie in applied microeconomics, labour economics, education, and behavioural economics. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
 
@@ -66,24 +66,23 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
 \
 &nbsp;
 
-<script>
-  body{
-  font-family: Arial, sans-serif;
-  font-size: 16pt;
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16pt;
   }
   /* Headers */
-  h1,h2,h3,h4,h5,h6{
+  h1, h2, h3, h4, h5, h6 {
     font-size: 24pt;
   }
-  /* styles.css */
-  a{
+  /* Link styles */
+  a {
     color: navy; /* Change this to your desired color */
   }
-
-  a:hover{
+  a:hover {
     color: navy; /* Change this to your desired hover color */
   }
-</script>
+</style>
 
 
 [//]: This java script is the button to show abstract
