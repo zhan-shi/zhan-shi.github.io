@@ -69,7 +69,7 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
 <style>
   body {
     font-family: Arial, sans-serif;
-    font-size: 16pt;
+    font-size: 14pt;
   }
   /* Headers */
   h1, h2, h3, h4, h5, h6 {
@@ -77,10 +77,10 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
   }
   /* Link styles */
   a {
-    color: navy; /* Change this to your desired color */
+    color: #3776ab; /* Change this to your desired color */
   }
   a:hover {
-    color: navy; /* Change this to your desired hover color */
+    color: #3776ab; /* Change this to your desired hover color */
   }
 </style>
 
