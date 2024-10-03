@@ -75,12 +75,12 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
 
   body {
     font-family: Arial, sans-serif;
-    font-size: 14pt;
+    font-size: 13pt;
   }
   /* Headers */
   h1, h2, h3, h4, h5, h6 {
     font-size: 18pt;
-    margin-top: 10px; /* Control spacing before headings */
+    /* margin-top: 10px; /*Control spacing before headings */
     margin-bottom: 10px; /* Control spacing after headings */
   }
   /* Link styles */
