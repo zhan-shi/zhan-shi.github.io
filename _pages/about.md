@@ -59,7 +59,7 @@ We study the long-run effects of income inequality within peer compositions. An 
 
 <!-- **The effect of Universal Credit on Children’s Educational and Behavioural Outcomes**. .<br/> -->
 
-Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with [Césarine Boinet](https://cesarine-boinet.github.io/), [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). *Working paper available upon request.*
+Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with [Césarine Boinet](https://cesarine-boinet.github.io/), [Jonathan Norris](https://jonathan-norris.github.io/), [Agnese Romiti](https://sites.google.com/view/agneseromiti/home), and [Paul Telemo](https://sites.google.com/view/paultelemo/home)). *Working paper available upon request.*
 
 The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta). *Working paper available upon request.*
 
