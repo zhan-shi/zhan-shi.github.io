@@ -97,9 +97,13 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
   p {
     margin: 0; /* Adjust the bottom margin to reduce spacing */
     padding: 0; /* Remove padding if any */
+    margin-bottom: 5px; /* Adjust the bottom margin to reduce spacing between paragraphs */
   }
   p:first-of-type {
     margin-top: 0; /* Remove top margin */
+  }
+  .reduce-space {
+    margin-bottom: 0; /* Remove bottom margin */
   }
 </style>
 
