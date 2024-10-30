@@ -63,10 +63,10 @@ Beliefs on Childrenâ€™s Human Capital Accumulation and Mothers at Work (with [CÃ
 
 The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta). *Working paper available upon request.*
 
-\
+<!-- \
 &nbsp;
 \
-&nbsp;
+&nbsp; -->
 
 <style>
   .container {
