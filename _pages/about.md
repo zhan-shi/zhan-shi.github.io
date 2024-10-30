@@ -84,7 +84,7 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
   /* Headers */
   h1, h2, h3, h4, h5, h6 {
     font-size: 18pt;
-    margin-top: 5px; /* Control spacing before headings */
+    margin-top: 8px; /* Control spacing before headings */
     margin-bottom: 5px; /* Control spacing after headings */
   }
   /* Link styles */
@@ -97,6 +97,9 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
   p {
     margin: 0; /* Adjust the bottom margin to reduce spacing */
     padding: 0; /* Remove padding if any */
+  }
+  p:first-of-type {
+    margin-top: 0; /* Remove top margin */
   }
 </style>
 
