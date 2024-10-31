@@ -57,7 +57,7 @@ We study the long-run effects of income inequality within peer compositions. An 
 Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with [Césarine Boinet](https://cesarine-boinet.github.io/), [Jonathan Norris](https://jonathan-norris.github.io/), [Agnese Romiti](https://sites.google.com/view/agneseromiti/home), and [Paul Telemo](https://sites.google.com/view/paultelemo/home)). *Draft available upon request.*
 
 
-The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta). *Draft available upon request.*
+The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta). *Draft available upon request.*<br/>
 <small>[ <a href="#/" onclick="visib('ocp')">Abstract</a> ] </small>
 
 <div id="ocp" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -67,10 +67,12 @@ We study the spillover effects of China's one-child policy on the health outcome
 ## Work in-Progress 
 <!-- - - - -->
 
-Gender impacts of face-to-face academic interactions: Evidence from conferences (with [Fernanda Leite Lopez de Leon](https://sites.google.com/site/fernandalldeleon/) and [Ben McQuillin](https://research-portal.uea.ac.uk/en/persons/ben-mcquillin))
+Gender impacts of face-to-face academic interactions: Evidence from conferences (with [Fernanda Leite Lopez de Leon](https://sites.google.com/site/fernandalldeleon/) and [Ben McQuillin](https://research-portal.uea.ac.uk/en/persons/ben-mcquillin))<br/>
+<small>[ <a href="#/" onclick="visib('gender_conf')">Abstract</a> ] </small>
 
-
-
+<div id="gender_conf" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We explore the role of face-to-face and social interactions in academic settings in contributing to (or mitigating) gender differences in academic productivity. Our focus is on academic conferences, building on our previous work. In exploiting a “natural experiment” (the last-minute cancellation of a very large conference), we showed distinct conference benefits in terms of developing and advertising papers presented, and in authors’ forming new collaborations. More recently, we have discovered that these benefits appear to be gendered. We now propose to develop our existing dataset (comprising more than 29,000 conference papers) and conduct further analyses that will help us to verify, explore, and explain this phenomenon. The conference setting represents a specific opportunity for academics to meet in person. We contend that an understanding of the role of gender in this environment will cast light on the role of gender in academic workplaces more generally.
+</small><br><br/></div>
 
 
 <!-- \
@@ -94,7 +96,7 @@ Gender impacts of face-to-face academic interactions: Evidence from conferences 
   /* Headers */
   h1, h2, h3, h4, h5, h6 {
     font-size: 18pt;
-    margin-top: 10px; /* Control spacing before headings */
+    margin-top: 20px; /* Control spacing before headings */
     margin-bottom: 5px; /* Control spacing after headings */
   }
   /* Link styles */
