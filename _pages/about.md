@@ -45,7 +45,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- - - - -->
 
 Income Inequality and Peer Effects in Education (with [Marco Fongoni](https://sites.google.com/site/marcofongoni/home), [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). 2022. *Under review.*<br/>
-<!-- <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> ] </small> -->
 <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> | [IZA Working Paper][peer-inequality-wp] ] </small>
 
 <div id="peer-inequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -54,14 +53,25 @@ We study the long-run effects of income inequality within peer compositions. An 
 
 [peer-inequality-wp]:https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
 
+
+Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with [Césarine Boinet](https://cesarine-boinet.github.io/), [Jonathan Norris](https://jonathan-norris.github.io/), [Agnese Romiti](https://sites.google.com/view/agneseromiti/home), and [Paul Telemo](https://sites.google.com/view/paultelemo/home)). *Draft available upon request.*
+
+
+The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta). *Draft available upon request.*
+<small>[ <a href="#/" onclick="visib('ocp')">Abstract</a> ] </small>
+
+<div id="ocp" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We study the spillover effects of China's one-child policy on the health outcomes of subsequent generations. Despite extensive research on the effects of family size on education, few studies have examined the policy's effects on health, especially across generations. Focusing on urban Han Chinese from the China Family Panel Studies data, we use a reduced form regression discontinuity design (RDD) to isolate the local average treatment effect of the policy. The results indicate that children of policy-affected parents show significant improvements in physical and mental health, which can be attributed to increased parental investment and care and improved parental health outcomes. Our findings contribute to the literature on the intergenerational transmission of health and quantity-quality trade-offs, and highlight how family planning policies can have lasting health effects across generations. 
+</small><br><br/></div>
+
 ## Work in-Progress 
 <!-- - - - -->
 
-<!-- **The effect of Universal Credit on Children’s Educational and Behavioural Outcomes**. .<br/> -->
+Gender impacts of face-to-face academic interactions: Evidence from conferences (with [Fernanda Leite Lopez de Leon](https://sites.google.com/site/fernandalldeleon/) and [Ben McQuillin](https://research-portal.uea.ac.uk/en/persons/ben-mcquillin))
 
-Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with [Césarine Boinet](https://cesarine-boinet.github.io/), [Jonathan Norris](https://jonathan-norris.github.io/), [Agnese Romiti](https://sites.google.com/view/agneseromiti/home), and [Paul Telemo](https://sites.google.com/view/paultelemo/home)). *Working paper available upon request.*
 
-The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta). *Working paper available upon request.*
+
+
 
 <!-- \
 &nbsp;
