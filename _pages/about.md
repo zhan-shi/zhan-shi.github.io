@@ -102,6 +102,7 @@ We explore the role of face-to-face and social interactions in academic settings
   /* Link styles */
   a {
     color: #3776ab; /* Change this to your desired color */
+    text-decoration: none; /* Remove underline */
   }
   a:hover {
     color: #3776ab; /* Change this to your desired hover color */
