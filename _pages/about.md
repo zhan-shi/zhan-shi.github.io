@@ -90,7 +90,7 @@ We explore the role of face-to-face and social interactions in academic settings
 
   body {
     font-family: Arial, sans-serif;
-    font-size: 14pt;
+    font-size: 13pt;
     line-height: 1.4;
   }
   /* Headers */
