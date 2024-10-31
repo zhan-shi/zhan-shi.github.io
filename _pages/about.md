@@ -44,7 +44,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 ## Working Papers 
 <!-- - - - -->
 
-Income Inequality and Peer Effects in Education (with [Marco Fongoni](https://sites.google.com/site/marcofongoni/home), [Jonathan Norris](https://jonathan-norris.github.io/), and [Agnese Romiti](https://sites.google.com/view/agneseromiti/home)). 2022. *Under review.*<br/>
+Income Inequality and Peer Effects in Education (with <a href="https://sites.google.com/site/marcofongoni/home" class="no-underline">Marco Fongoni</a>, <a href="https://jonathan-norris.github.io/" class="no-underline">Jonathan Norris</a>, and <a href="https://sites.google.com/view/agneseromiti/home" class="no-underline">Agnese Romiti</a>). 2022. *Under review.*<br/>
 <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> | [IZA Working Paper][peer-inequality-wp] ] </small>
 
 <div id="peer-inequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -54,7 +54,7 @@ We study the long-run effects of income inequality within peer compositions. An 
 [peer-inequality-wp]:https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
 
 
-Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with [Césarine Boinet](https://cesarine-boinet.github.io/), [Jonathan Norris](https://jonathan-norris.github.io/), [Agnese Romiti](https://sites.google.com/view/agneseromiti/home), and [Paul Telemo](https://sites.google.com/view/paultelemo/home)). *Draft available upon request.*
+Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with <a href="https://cesarine-boinet.github.io/" class="no-underline">Césarine Boinet</a>, <a href="https://jonathan-norris.github.io/" class="no-underline">Jonathan Norris</a>, <a href="https://sites.google.com/view/agneseromiti/home" class="no-underline">Agnese Romiti</a>, and <a href="https://sites.google.com/view/paultelemo/home" class="no-underline">Paul Telemo</a>). *Draft available upon request.*
 
 
 The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta). *Draft available upon request.*<br/>
@@ -67,7 +67,7 @@ We study the spillover effects of China's one-child policy on the health outcome
 ## Work in-Progress 
 <!-- - - - -->
 
-Gender impacts of face-to-face academic interactions: Evidence from conferences (with [Fernanda Leite Lopez de Leon](https://sites.google.com/site/fernandalldeleon/) and [Ben McQuillin](https://research-portal.uea.ac.uk/en/persons/ben-mcquillin))<br/>
+Gender impacts of face-to-face academic interactions: Evidence from conferences (with <a href="https://sites.google.com/site/fernandalldeleon/" class="no-underline">Fernanda Leite Lopez de Leon</a> and <a href="https://research-portal.uea.ac.uk/en/persons/ben-mcquillin/" class="no-underline">Ben McQuillin</a>).<br/>
 <small>[ <a href="#/" onclick="visib('gender_conf')">Abstract</a> ] </small>
 
 <div id="gender_conf" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -102,7 +102,10 @@ We explore the role of face-to-face and social interactions in academic settings
   /* Link styles */
   a {
     color: #3776ab; /* Change this to your desired color */
+  }
+  a.no-underline {
     text-decoration: none; /* Remove underline */
+    color: inherit; /* Remove color highlight */
   }
   a:hover {
     color: #3776ab; /* Change this to your desired hover color */
