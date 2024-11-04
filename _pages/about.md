@@ -62,12 +62,14 @@ When deciding whether to maintain a career, mothers may face pressure to sort ou
 </small><br><br/></div>
 
 
-The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta). *Draft available upon request.*<br/>
-<small>[ <a href="#/" onclick="visib('ocp')">Abstract</a> ] </small>
+The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta).<br/>
+<small>[ <a href="#/" onclick="visib('ocp')">Abstract</a> | [Draft][ocp-wp] ] </small>
 
 <div id="ocp" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study the spillover effects of China's one-child policy on the health outcomes of subsequent generations. Despite extensive research on the effects of family size on education, few studies have examined the policy's effects on health, especially across generations. Focusing on urban Han Chinese from the China Family Panel Studies data, we use a reduced form regression discontinuity design (RDD) to isolate the local average treatment effect of the policy. The results indicate that children of policy-affected parents show significant improvements in physical and mental health, which can be attributed to increased parental investment and care and improved parental health outcomes. Our findings contribute to the literature on the intergenerational transmission of health and quantity-quality trade-offs, and highlight how family planning policies can have lasting health effects across generations. 
 </small><br><br/></div>
+
+[ocp-wp](/assets/files/ZhanShi_JMP_Oct2024.pdf)
 
 ## Work in-Progress 
 <!-- - - - -->
