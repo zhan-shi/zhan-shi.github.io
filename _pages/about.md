@@ -24,7 +24,7 @@ author_profile: true
 
 Hello and Welcome to my website!
 
-I am a Postdoctoral Research Associate in the School of Economics at the University of Kent. **I am on the job market 2024-2025**. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
+I am a Postdoctoral Research Associate in the School of Economics at the University of Kent. **I am on the job market 2024/2025**. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
 
 I received my PhD in Economics from the University of Strathclyde, Glasgow in 2024. I hold an MSc in Economics from the University of Edinburgh. My research interests lie in applied microeconomics, labour economics, education, and behavioural economics. 
 <!-- I work with Fernanda on the Leverhulme-funded project "". -->
