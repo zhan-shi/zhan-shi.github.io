@@ -55,11 +55,13 @@ We study the long-run effects of income inequality within peer compositions. An 
 
 
 Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with <a href="https://cesarine-boinet.github.io/" class="no-underline">Césarine Boinet</a>, <a href="https://jonathan-norris.github.io/" class="no-underline">Jonathan Norris</a>, <a href="https://sites.google.com/view/agneseromiti/home" class="no-underline">Agnese Romiti</a>, and <a href="https://sites.google.com/view/paultelemo/home" class="no-underline">Paul Telemo</a>).<br/>
-<small>[ <a href="#/" onclick="visib('beliefs')">Abstract</a> | [Draft](/assets/files/beliefs_gender_hc.pdf)  ] </small>
+<small>[ <a href="#/" onclick="visib('beliefs')">Abstract</a> | [IZA Working Paper][beliefs-wp]  ] </small>
 
 <div id="beliefs" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Mothers may face pressure to sort out of the labor market from perceptions that women have an absolute advantage in child-rearing even when their earnings potential equals that of men. Guided by a simple model, we use a survey experiment where we equalize earnings potential across gender and show that women are perceived to hold an absolute advantage in child-rearing. We then experimentally test mechanisms that may underlie these beliefs, finding that mothers are expected to spend more time on skill investments with their children than are men who have equivalent time available. Finally, we conduct an experiment providing factual information on the performance of children when mothers work full-time, showing that beliefs update toward accurate perceptions and a reduction in the expected harm to the child. Our results suggest beliefs on absolute advantage matter for the efficacy of policies aimed at closing the gender pay gap and a role for policy to target channels where individual’s may be misinformed on children’s outcomes when mothers maintain careers.
 </small><br><br/></div>
+
+[beliefs-wp]: https://docs.iza.org/dp17574.pdf
 
 
 The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta).<br/>
