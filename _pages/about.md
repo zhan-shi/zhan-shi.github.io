@@ -24,7 +24,7 @@ author_profile: true
 
 Hello and Welcome to my website!
 
-I am a Research Associate in Causal Inference & Health Technology Assessment at the University of Sheffield. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
+I am a Research Associate in Causal Inference & Health Technology Assessment at the <a href = "https://sheffield.ac.uk/smph/people/academic/population-health/zhan-shi" class="no-underline">University of Sheffield</a>. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
 
 <!-- **I am on the job market**. -->
 

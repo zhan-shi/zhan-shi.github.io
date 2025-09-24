@@ -86,7 +86,7 @@ author:
   bio              : Economist # Postdoc in Economics
   new_line         : # University of Kent
   location         : 
-  employer         : https://sheffield.ac.uk/smph/people/academic/population-health/zhan-shi
+  employer         : 
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "zhan.shi@sheffield.ac.uk"
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ZZhan_Shi"
+  twitter          : # "ZZhan_Shi"
   vine             :
   weibo            :
   xing             :
