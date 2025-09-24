@@ -28,7 +28,7 @@ I am a Research Associate in Causal Inference & Health Technology Assessment at 
 
 <!-- **I am on the job market**. -->
 
-I received my PhD in Economics from the University of Strathclyde, Glasgow in 2024. I hold an MSc in Economics from the University of Edinburgh. My research interests lie in applied microeconomics, labour economics, education, and behavioural economics. 
+I received my PhD in Economics from the University of Strathclyde, Glasgow in 2024. I hold an MSc in Economics from the University of Edinburgh. My research interests lie in applied microeconomics, labour economics, health, education, and behavioural economics. 
 
 <!-- I am a PhD student in Economics at the University of Strathclyde starting in Oct 2021. I am under the supervision of [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Agnese Romiti](https://sites.google.com/view/agneseromiti/home). -->
 
