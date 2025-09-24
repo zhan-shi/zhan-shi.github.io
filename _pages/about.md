@@ -24,7 +24,7 @@ author_profile: true
 
 Hello and Welcome to my website!
 
-I am a Postdoctoral Research Associate in the School of Economics at the University of Kent. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
+I am a Research Associate in Causal Inference & Health Technology Assessment at the University of Sheffield. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
 
 <!-- **I am on the job market**. -->
 
