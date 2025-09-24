@@ -83,13 +83,13 @@ analytics:
 author:
   name             : "Zhan Shi"
   avatar           : "profile.jpeg"
-  bio              : Postdoc in Economics
-  new_line         : University of Kent
+  bio              : # Postdoc in Economics
+  new_line         : # University of Kent
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "z.shi@kent.ac.uk"
+  email            : "zhan.shi@sheffield.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
