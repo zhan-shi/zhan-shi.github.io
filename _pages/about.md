@@ -82,6 +82,8 @@ Gender impacts of face-to-face academic interactions: Evidence from conferences 
 This paper investigates the role of face-to-face and social interactions in academic settings in contributing to (or mitigating) gender differences in academic productivity. Our focus is on academic conferences: a setting that represents a specific opportunity for academics to meet in person. In exploiting a “natural experiment” - the last-minute cancellation of a very large conference - we have showed distinct conference benefits in terms of developing and advertising papers presented, and in authors’ forming new collaborations. This paper provides evidence that conference benefits are shaped by gender dynamics. Men are more likely to form academic collaborations and receive citations. Moreover, the gender of the discussant plays a crucial role in determining an article’s citation impact four years after the conference. Our findings suggest that both male and female presenters benefit more when paired with discussants of the same gender. We also explore the mechanisms driving these gendered effects.
 </small><br><br/></div>
 
+Beliefs on Breastfeeding: Informing Future Mothers (with <a href="https://sites.google.com/site/ronnipavan/home" class="no-underline">Ronni Pavan</a> and <a href="https://sites.google.com/view/agneseromiti/home" class="no-underline">Agnese Romiti</a>).<br/>
+
 
 <!-- \
 &nbsp;
