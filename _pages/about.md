@@ -45,7 +45,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 ## Working Papers 
 <!-- - - - -->
 
-Income Inequality and Peer Effects in Education (with Marco Fongoni, Jonathan Norris, and Agnese Romiti). *Under review.*<br/>
+Income Inequality and Peer Effects in Education (with Marco Fongoni, Jonathan Norris, and Agnese Romiti). *R&R at Labour Economics.*<br/>
 <small>[ <a href="#/" onclick="visib('peer-inequality')">Abstract</a> | [IZA Working Paper][peer-inequality-wp] | [Draft][draft_peer] ] </small>
 
 <div id="peer-inequality" style="display: none; text-align: justify; line-height: 1.2" ><small>
