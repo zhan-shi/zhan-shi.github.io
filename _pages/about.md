@@ -72,7 +72,7 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
 We study the spillover effects of China's one-child policy on the health outcomes of subsequent generations. Despite extensive research on the effects of family size on education, few studies have examined the policy's effects on health, especially across generations. Focusing on urban Han Chinese from the China Family Panel Studies data, we use a reduced form regression discontinuity design (RDD) to isolate the local average treatment effect of the policy. The results indicate that children of policy-affected parents show significant improvements in physical and mental health, which can be attributed to increased parental investment and care and improved parental health outcomes. Our findings contribute to the literature on the intergenerational transmission of health and quantity-quality trade-offs, and highlight how family planning policies can have lasting health effects across generations. 
 </small><br><br/></div>
 
-Recreational Marijuana Legalization and Mental Health (with Daniel Borbely, Otto Lenhart, Jonathan Norris, and Agnese Romiti). <br/>
+Asymmetric Effects of Recreational Marijuana Laws on Mental Health and Labor Markets (with Daniel Borbely, Otto Lenhart, Jonathan Norris, and Agnese Romiti). *Under review.* <br/>
 <small>[ <a href="#/" onclick="visib('mj')">Abstract</a> ] </small>
 
 <div id="mj" style="display: none; text-align: justify; line-height: 1.2" ><small>
