@@ -55,7 +55,7 @@ We study the long-run effects of income inequality within peer compositions. An 
 [peer-inequality-wp]:https://www.iza.org/publications/dp/15785/reference-dependent-aspirations-and-peer-effects-in-education
 [draft_peer]: https://jonathan-norris.github.io/files/peerinequality_Update.pdf
 
-Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Césarine Boinet, Jonathan Norris, Agnese Romiti, and Paul Telemo). *Under review.* <br/>
+Beliefs on Children’s Human Capital Accumulation and Mothers at Work (with Césarine Boinet, Jonathan Norris, Agnese Romiti, and Paul Telemo). *R&R at Journal of Public Economics.* <br/>
 <small>[ <a href="#/" onclick="visib('beliefs')">Abstract</a> | [IZA Working Paper][beliefs-wp] | [Draft][draft_beliefs_mom] ] </small>
 
 <div id="beliefs" style="display: none; text-align: justify; line-height: 1.2" ><small>
