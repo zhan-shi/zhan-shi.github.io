@@ -82,14 +82,14 @@ Recreational marijuana legalization broadens access to consumption, but younger 
 ## Work in-Progress 
 <!-- - - - -->
 
-Gender impacts of face-to-face academic interactions: Evidence from conferences (with <a href="https://sites.google.com/site/fernandalldeleon/" class="no-underline">Fernanda Leite Lopez de Leon</a> and <a href="https://research-portal.uea.ac.uk/en/persons/ben-mcquillin/" class="no-underline">Ben McQuillin</a>).<br/>
+Gender impacts of face-to-face academic interactions: Evidence from conferences (with Fernanda Leite Lopez de Leon and Ben McQuillin).<br/>
 <small>[ <a href="#/" onclick="visib('gender_conf')">Abstract</a> ] </small>
 
 <div id="gender_conf" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper investigates the role of face-to-face and social interactions in academic settings in contributing to (or mitigating) gender differences in academic productivity. Our focus is on academic conferences: a setting that represents a specific opportunity for academics to meet in person. In exploiting a “natural experiment” - the last-minute cancellation of a very large conference - we have showed distinct conference benefits in terms of developing and advertising papers presented, and in authors’ forming new collaborations. This paper provides evidence that conference benefits are shaped by gender dynamics. Men are more likely to form academic collaborations and receive citations. Moreover, the gender of the discussant plays a crucial role in determining an article’s citation impact four years after the conference. Our findings suggest that both male and female presenters benefit more when paired with discussants of the same gender. We also explore the mechanisms driving these gendered effects.
 </small><br><br/></div>
 
-Beliefs on Breastfeeding: Informing Future Mothers (with <a href="https://sites.google.com/site/ronnipavan/home" class="no-underline">Ronni Pavan</a> and <a href="https://sites.google.com/view/agneseromiti/home" class="no-underline">Agnese Romiti</a>).<br/>
+Beliefs on Breastfeeding: Informing Future Mothers (with Ronni Pavan and Agnese Romiti).<br/>
 <small>[ <a href="#/" onclick="visib('bf_beliefs')">Abstract</a> ] </small>
 
 <div id="bf_beliefs" style="display: none; text-align: justify; line-height: 1.2" ><small>
