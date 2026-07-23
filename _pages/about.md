@@ -65,18 +65,20 @@ Mothers may face pressure to sort out of the labor market from perceptions that 
 [beliefs-wp]: https://docs.iza.org/dp17574.pdf
 [draft_beliefs_mom]: https://jonathan-norris.github.io/files/beliefs_moms_work.pdf
 
+Asymmetric Effects of Recreational Marijuana Laws on Mental Health and Labor Markets (with Daniel Borbely, Otto Lenhart, Jonathan Norris, and Agnese Romiti). *R&R at Journal of Health Economics.* <br/>
+<small>[ <a href="#/" onclick="visib('mj')">Abstract</a> | [SSRN][mml_ssrn]] </small>
+
+<div id="mj" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Recreational marijuana legalization broadens access to consumption, but younger adults consume more post-legalization, at a time when neurological development is still active and marijuana can interact with mood regulation. How legalization affects mental health, activity, and labor market outcomes therefore likely depends on the ages of those consuming. We study this question using a difference-in-differences strategy on state-year-age group panel data from 2002–2024 across US states. Our results reveal asymmetric effects across the age distribution. Post-legalization, young adults under 25 experience more poor mental health days, reduce exercise participation, and become more likely to experience prolonged unemployment spells exceeding one year. Adults over 50 do not experience changes in mental health but report less joint pain, exercise more often, and show suggestive income gains. These opposing effects cancel in the aggregate, producing a null average effect that masks meaningful consequences at each end of the age distribution. Our evidence indicates that the effects of recreational marijuana laws are age-dependent, with young adults particularly vulnerable to harmful outcomes.
+</small><br><br/></div>
+
+[mml_ssrn]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6590998
+
 The One-Child Policy in China and its Intergenerational Effects on Health (with Thi Tham Ta). *Under review.* <br/>
 <small>[ <a href="#/" onclick="visib('ocp')">Abstract</a> | [Draft](/assets/files/OCP_draft.pdf) ] </small>
 
 <div id="ocp" style="display: none; text-align: justify; line-height: 1.2" ><small>
 We study the spillover effects of China's one-child policy on the health outcomes of subsequent generations. Despite extensive research on the effects of family size on education, few studies have examined the policy's effects on health, especially across generations. Focusing on urban Han Chinese from the China Family Panel Studies data, we use a reduced form regression discontinuity design (RDD) to isolate the local average treatment effect of the policy. The results indicate that children of policy-affected parents show significant improvements in physical and mental health, which can be attributed to increased parental investment and care and improved parental health outcomes. Our findings contribute to the literature on the intergenerational transmission of health and quantity-quality trade-offs, and highlight how family planning policies can have lasting health effects across generations. 
-</small><br><br/></div>
-
-Asymmetric Effects of Recreational Marijuana Laws on Mental Health and Labor Markets (with Daniel Borbely, Otto Lenhart, Jonathan Norris, and Agnese Romiti). *Under review.* <br/>
-<small>[ <a href="#/" onclick="visib('mj')">Abstract</a> ] </small>
-
-<div id="mj" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Recreational marijuana legalization broadens access to consumption, but younger adults consume more post-legalization, at a time when neurological development is still active and marijuana can interact with mood regulation. How legalization affects mental health, activity, and labor market outcomes therefore likely depends on the ages of those consuming. We study this question using a difference-in-differences strategy on state-year-age group panel data from 2002–2024 across US states. Our results reveal asymmetric effects across the age distribution. Post-legalization, young adults under 25 experience more poor mental health days, reduce exercise participation, and become more likely to experience prolonged unemployment spells exceeding one year. Adults over 50 do not experience changes in mental health but report less joint pain, exercise more often, and show suggestive income gains. These opposing effects cancel in the aggregate, producing a null average effect that masks meaningful consequences at each end of the age distribution. Our evidence indicates that the effects of recreational marijuana laws are age-dependent, with young adults particularly vulnerable to harmful outcomes.
 </small><br><br/></div>
 
 ## Work in-Progress 
