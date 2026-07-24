@@ -113,8 +113,9 @@ Breastfeeding improves child and maternal outcomes, but it may also carry labor-
 
   body {
     font-family: Arial, sans-serif;
-    font-size: 11pt;
+    font-size: 12.5pt;
     line-height: 1.4;
+    text-align: justify;
   }
   /* Headers */
   h1, h2, h3, h4, h5, h6 {
