@@ -5,25 +5,13 @@ main:
     url: /
 
   # - title: "CV"
-  #   url: /assets/files/Zhan_Shi_CV.pdf
+  #   url: /assets/files/ZhanShi_CV.pdf
 
   # - title: "Research"
-  #   url: /research/    
+  #   url: /research/
 
   # - title: "Public Goods"
   #   url: /publicgoods/
-    
+
   # - title: "Contact"
   #   url: /contact/
-
-  # - title: "Teaching"
-  #    url: /teaching/      
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
