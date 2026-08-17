@@ -22,7 +22,7 @@ author_profile: true
  <!-- #3776ab # 0072b1 -->
 <!-- <a href="https://jonathan-norris.github.io/" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Jonathan Norris</a> and <a href="https://sites.google.com/view/agneseromiti/home" style="color: #3776ab; text-decoration: underline;text-decoration-style: solid;">Dr Agnese Romiti</a>. -->
 
-Hello and Welcome to my website!
+Hello and welcome to my website!
 
 I am a Research Associate in Causal Inference & Health Technology Assessment at the <a href = "https://sheffield.ac.uk/smph/people/academic/population-health/zhan-shi" class="no-underline">University of Sheffield</a>. Here you can find my [CV](/assets/files/ZhanShi_CV.pdf). 
 
