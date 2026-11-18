@@ -81,6 +81,13 @@ The One-Child Policy in China and its Intergenerational Effects on Health (with 
 We study the spillover effects of China's one-child policy on the health outcomes of subsequent generations. Despite extensive research on the effects of family size on education, few studies have examined the policy's effects on health, especially across generations. Focusing on urban Han Chinese from the China Family Panel Studies data, we use a reduced form regression discontinuity design (RDD) to isolate the local average treatment effect of the policy. The results indicate that children of policy-affected parents show significant improvements in physical and mental health, which can be attributed to increased parental investment and care and improved parental health outcomes. Our findings contribute to the literature on the intergenerational transmission of health and quantity-quality trade-offs, and highlight how family planning policies can have lasting health effects across generations. 
 </small><br><br/></div>
 
+Beliefs on Breastfeeding: Informing Future Mothers (with Ronni Pavan and Agnese Romiti).<br/>
+<small>[ <a href="#/" onclick="visib('bf_beliefs')">Abstract</a> | [Draft](/assets/files/jmp_bf_zs.pdf) ] </small>
+
+<div id="bf_beliefs" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Breastfeeding improves child and maternal outcomes, but it may also carry labor-market costs for mothers. This paper examines whether women hold accurate beliefs about benefits and costs of breastfeeding and whether evidence-based information can change these beliefs and breastfeeding intentions. We design and implement a survey experiment with UK women with childbearing intentions. We first elicit their prior beliefs on the effects of breastfeeding on child health, child cognitive outcomes, maternal health, and maternal labor-market outcomes. We then randomize participants to receive targeted information treatments based on existing evidence. We document substantial baseline misperceptions. Providing information leads to significant belief updating across three domains and improves belief accuracy. Treatment effects are largest among women who initially underestimated breastfeeding’s effects. Information increases intended breastfeeding duration by approximately 0.67 months on average, with the strongest response among childless women, suggesting that information interventions are a potentially powerful policy tool.
+</small><br><br/></div>
+
 ## Work in-Progress 
 <!-- - - - -->
 
@@ -91,12 +98,7 @@ Gender impacts of face-to-face academic interactions: Evidence from conferences 
 This paper investigates the role of face-to-face and social interactions in academic settings in contributing to (or mitigating) gender differences in academic productivity. Our focus is on academic conferences: a setting that represents a specific opportunity for academics to meet in person. In exploiting a “natural experiment” - the last-minute cancellation of a very large conference - we have showed distinct conference benefits in terms of developing and advertising papers presented, and in authors’ forming new collaborations. This paper provides evidence that conference benefits are shaped by gender dynamics. Men are more likely to form academic collaborations and receive citations. Moreover, the gender of the discussant plays a crucial role in determining an article’s citation impact four years after the conference. Our findings suggest that both male and female presenters benefit more when paired with discussants of the same gender. We also explore the mechanisms driving these gendered effects.
 </small><br><br/></div>
 
-Beliefs on Breastfeeding: Informing Future Mothers (with Ronni Pavan and Agnese Romiti).<br/>
-<small>[ <a href="#/" onclick="visib('bf_beliefs')">Abstract</a> | draft available upon request ] </small>
 
-<div id="bf_beliefs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Breastfeeding improves child and maternal outcomes, but it may also carry labor-market costs for mothers. This paper examines whether women hold accurate beliefs about benefits and costs of breastfeeding and whether evidence-based information can change these beliefs and breastfeeding intentions. We design and implement a survey experiment for women in the UK. We first elicit prior beliefs on the effects of breastfeeding on child health, child cognitive outcomes, maternal health, and maternal labor market outcomes. We then randomize participants to receive targeted information treatments based on existing evidence. We document substantial baseline misperceptions. Providing information leads to meaningful belief updating and improves belief accuracy. Responses are strongest among women with lower confidence in their prior beliefs and among those who initially underestimate the effects. We also find increases in breastfeeding intentions and intended duration, suggesting that information interventions may be a powerful policy tool for influencing breastfeeding behavior.
-</small><br><br/></div>
 
 <!-- \
 &nbsp;
