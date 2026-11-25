@@ -82,11 +82,13 @@ We study the spillover effects of China's one-child policy on the health outcome
 </small><br><br/></div>
 
 Beliefs About Breastfeeding: Informing (Future) Mothers (with Ronni Pavan and Agnese Romiti).<br/>
-<small>[ <a href="#/" onclick="visib('bf_beliefs')">Abstract</a> | [Draft](/assets/files/jmp_bf_zs.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('bf_beliefs')">Abstract</a> | [IZA Working Paper][bf-wp] ] </small>
 
 <div id="bf_beliefs" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Breastfeeding improves child and maternal outcomes, but it may also carry labor-market costs for mothers. This paper examines whether women hold accurate beliefs about benefits and costs of breastfeeding and whether evidence-based information can change these beliefs and breastfeeding intentions. We design and implement a survey experiment with UK women with childbearing intentions. We first elicit their prior beliefs on the effects of breastfeeding on child health, child cognitive outcomes, maternal health, and maternal labor-market outcomes. We then randomize participants to receive targeted information treatments based on existing evidence. We document substantial baseline misperceptions. Providing information leads to significant belief updating across three domains and improves belief accuracy. Treatment effects are largest among women who initially underestimated breastfeeding’s effects. Information increases intended breastfeeding duration by approximately 0.67 months on average, with the strongest response among childless women, suggesting that information interventions are a potentially powerful policy tool.
 </small><br><br/></div>
+
+[bf-wp]: https://docs.iza.org/dp19064.pdf
 
 ## Work in-Progress 
 <!-- - - - -->
